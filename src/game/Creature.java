@@ -2,8 +2,6 @@ package game;
 
 import java.util.ArrayList;
 import java.util.List;
-//useless comment
-//another useless comment
 
 public class Creature extends Displayable {
     private int Hp;
