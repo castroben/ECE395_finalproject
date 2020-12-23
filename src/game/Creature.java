@@ -3,6 +3,14 @@ package game;
 import java.util.ArrayList;
 import java.util.List;
 
+<<<<<<< HEAD
+=======
+//added comments to test branch
+//more modification to test branch
+//finally?
+//adding more comments
+
+>>>>>>> 1894b9bd495c5d14f58a186d9a829e16504b46ba
 public class Creature extends Displayable {
     private int Hp;
     private int HpMoves;
